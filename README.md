@@ -1,0 +1,2 @@
+# Triangles
+Define a `Triangle` class that initializes with 3 sides (duh it's a triangle). Define an instance method, `classification`, inside the class that classifies a triangle depending on the side lengths!
